@@ -1,0 +1,26 @@
+/* ---------------------     CONTACT */
+li .links_header2{
+	text-decoration:none;
+	background-color:white;
+	color:red;
+	margin:32px 0px;
+	padding:10px 50px 10px 50px;
+	font-family:consolas;
+	font-size:20px;
+	border-style:solid;
+	border-color:white;
+
+} 
+li .links_header2:hover{
+	text-decoration:none;
+	background-color:white;
+	color:blue;
+	margin:32px 20px;
+	padding:10px 30px 10px 30px;
+	font-family:consolas;
+	font-size:20px;
+	border-style:solid;
+	border-color:black;
+	border-radius:10px;
+	border-width:1px;
+} 
