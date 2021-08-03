@@ -36,8 +36,8 @@ li .links_header{
 	text-decoration:none;
 	background-color:white;
 	color:black;
-	margin:5px 0px;
-	padding:10px 50px 10px 50px;
+	
+	padding:10px 30px 10px 30px;
 	font-family:consolas;
 	font-size:20px;
 	border-style:solid;
@@ -48,7 +48,7 @@ li .links_header:hover{
 	text-decoration:none;
 	background-color:white;
 	color:blue;
-	margin:32px 20px;
+	margin:5px 5px;
 	padding:10px 30px 10px 30px;
 	font-family:consolas;
 	font-size:20px;
@@ -61,7 +61,7 @@ li .link0_header{
 	text-decoration:none;
 	background-color:white;
 	color:red;
-	margin:32px 0px;
+	margin:5px 5px;
 	padding:10px 50px 10px 50px;
 	font-family:consolas;
 	font-size:20px;
@@ -72,7 +72,7 @@ li .link0_header:hover{
 	text-decoration:none;
 	background-color:white;
 	color:blue;
-	margin:32px 20px;
+	margin:5px 5px;
 	padding:10px 30px 10px 30px;
 	font-family:consolas;
 	font-size:20px;
