@@ -1,6 +1,8 @@
 /* ---------------------     HOME --------------------------*/
 /* header */
-
+.svg{
+	margin:10px 50px 10px 50px;
+}
 .marquee{
 	color:black;
 	font-family:consolas;
