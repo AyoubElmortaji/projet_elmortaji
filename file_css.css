@@ -29,6 +29,7 @@ header{
 	animation-delay:3s;
 	 animation-timing-function:ease; 
 	 border-radius:10px;
+	width:100%;
 }
 .container{
 	margin:0 auto;
@@ -101,5 +102,6 @@ footer{
 	color:#868686;
 	font-family:consolas;
 	display;block;
+	width:100%;
 }
 
