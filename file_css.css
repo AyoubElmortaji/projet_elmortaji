@@ -29,19 +29,21 @@ header{
 	animation-delay:3s;
 	 animation-timing-function:ease; 
 	 border-radius:10px;
-	width:100%;
+	width:auto;
 }
 .container{
 	margin:0 auto;
 	padding:0 5px 0 5px;
 	max-width:900px;
 	text-align:center;
+	width:auto;
 }
 .title_of_my_page{
 	font-size:30px;
 	font-family:consolas;
 	margin: 0 30px 16px 0px;
 	color:White;
+	text-align:center;
 }
 	
 nav ul li{
@@ -51,10 +53,11 @@ nav ul li{
 	margin-right:0px;
 	text-align:center;
 	padding:1px 5px;
-	font-size:18px;
+	font-size:10px;
 	width:auto;
 	text-decoration:none;
 	border-radius:6px;
+	width:auto;
 }
 li a{
 	text-decoration:none;
@@ -63,7 +66,7 @@ li a{
 	margin-right:0px;
 	text-align:center;
 	padding:1px 5px;
-	font-size:18px;
+	font-size:10px;
 	width:auto;
 	text-decoration:none;
 	border-radius:6px;
@@ -102,6 +105,6 @@ footer{
 	color:#868686;
 	font-family:consolas;
 	display;block;
-	width:100%;
+	width:auto;
 }
 
