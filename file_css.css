@@ -1,0 +1,108 @@
+/*  This is a css file of styling my website ,  */
+
+
+
+
+/* header */
+
+	
+@keyframes colorchange{ 
+			 0% {background-color:black;} 
+			 50% {background-color:brown;} 
+			 70% {background-color:blue;}
+			  80% {background-color:darkviolet;} 
+			  90% {background-color:darkorange;} 
+			  100% {background-color:grey;}
+			 } 
+	
+
+header{
+	color:#ffffff;
+	background-color:#284b63;
+	padding:50px 0;
+	text-align:center;
+	font-family:consolas;
+	animation-name:colorchange; 
+	animation-duration:5s; 
+	 animation-iteration-count:infinite;
+	animation-direction:reverse; 
+	animation-delay:3s;
+	 animation-timing-function:ease; 
+	 border-radius:10px;
+}
+.container{
+	margin:0 auto;
+	padding:0 20px 0 20px;
+	max-width:900px;
+}
+.title_of_my_page{
+	font-size:48px;
+	font-family:consolas;
+	margin: 0 30px 16px 0px;
+	color:White;
+}
+	
+nav ul li{
+	list-style:none;
+	float:left;
+	margin-left:0px;
+	margin-right:30px;
+	text-align:center;
+	padding:1px 5px;
+	font-size:18px;
+	width:auto;
+	text-decoration:none;
+	border-radius:6px;
+}
+a{
+	text-decoration:none;
+	color:white;
+	margin-left:0px;
+	margin-right:30px;
+	text-align:center;
+	padding:1px 5px;
+	font-size:18px;
+	width:auto;
+	text-decoration:none;
+	border-radius:6px;
+}
+ul li a:hover{
+	background-color:white;
+	/* border-style:solid; */
+	/* border-radius:6px; */
+	color:black;
+	border-width:1px;
+	cursor:pointer;
+	border-radius:6px;
+}
+
+/* section */
+section{
+	padding:40px 0;
+	text-align:center;
+	font-family:consolas;
+	color:darkviolet;
+}
+
+.drp{
+	border-radius:20px;
+	width:250px;
+	
+}
+
+
+
+
+
+
+/* footer */
+footer{
+	color:#ffffff;
+	background:#353535;
+	padding:32px 0;
+	text-align:center;
+	color:#868686;
+	font-family:consolas;
+	display;block;
+}
+
