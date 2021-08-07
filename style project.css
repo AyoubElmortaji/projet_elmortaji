@@ -64,6 +64,7 @@ footer{
 	background-color:grey;
 	padding:10px;
 	color:white;
+text-decoration:none;
 }
 footer .fb{
 	margin:0;
@@ -75,6 +76,7 @@ footer .fb{
 	padding:10px;
 	color:white;
 	margin-top:5px;
+text-decoration:none;
 }
 footer .ins{
 	margin:0;
