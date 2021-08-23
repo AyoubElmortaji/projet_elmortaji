@@ -88,7 +88,7 @@ footer .ins{
 	padding:10px;
 	color:white;
 	margin-top:5px;
-
+text-decoration:none
 }
 
 footer .git{
@@ -106,13 +106,13 @@ footer .git{
 
 .git:hover{
 	background-color:white;
-	color:black
+	color:black;
 }
 .ins:hover{
 	background-color:white;
-	color:black
+	color:black;
 }
 .fb:hover{
 	background-color:white;
-	color:black
+	color:black;
 }
